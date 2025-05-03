@@ -5,29 +5,6 @@ This repository contains a manual testing project focused on validating the func
 
 This repository contains the documentation and artifacts related to the manual testing process for the [Application Name]. It includes a structured **Test Plan**, detailed **Test Cases**, and execution reports used to validate the application's functionality.
 
----
-
-## 📂 Repository Structure
-
-manual-testing-project/
-├── TestPlan/
-│ └── Test_Plan_Document.pdf
-│
-├── TestCases/
-│ ├── Functional_Test_Cases.xlsx
-│ ├── UI_Test_Cases.xlsx
-│ └── Integration_Test_Cases.xlsx
-│
-├── TestExecutionReports/
-│ └── Execution_Status_Report.xlsx
-│
-└── README.md
-
-yaml
-Copy
-Edit
-
----
 
 ## 📌 Project Objectives
 
